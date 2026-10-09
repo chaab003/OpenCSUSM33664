@@ -1,3 +1,0 @@
-Suricata
-Zeek
-Snort
